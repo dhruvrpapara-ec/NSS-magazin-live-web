@@ -1,0 +1,4 @@
+Place your magazine file at: public/magazine.pdf
+
+The flipbook reader loads this file automatically. Replace it with any new
+edition (same filename) and the site will pick it up on next load.
